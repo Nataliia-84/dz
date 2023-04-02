@@ -1,0 +1,16 @@
+ul{
+    list-style: none;
+    
+}
+.list{
+    display: flex;
+    gap:40px
+
+    
+}
+img{
+    cursor: pointer;
+}
+.bg{
+    background-color: #fff;
+}
